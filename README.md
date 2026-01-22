@@ -18,3 +18,6 @@ Clone o repositório e instale as dependências:
 
 ```bash
 bun install
+
+```bash
+bun run dev
